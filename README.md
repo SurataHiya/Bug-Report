@@ -1,4 +1,4 @@
 # Bug-Report
-This is the website by which bug reposrt is created
+Bug report is created on this is the website
 
 Url : "https://wpastra.com/website-templates/ "
